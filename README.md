@@ -45,6 +45,7 @@ Instead of copying raw HTML/CSS, it converts everything into a structured design
 
 ## Project Structure
 
+```text
 design-system-extractor/
 ├─ extract.js
 ├─ package.json
@@ -55,7 +56,7 @@ design-system-extractor/
 └─ output/
 ├─ design-system.json
 └─ ai-context.md
-
+```
 ---
 
 ## Installation
@@ -63,7 +64,10 @@ design-system-extractor/
 Clone the repository:
 https://github.com/92pablocosta/design-system-extractor
 
+```command
 cd design-system-extractor
+
+```
 
 ## Install dependencies:
 
