@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Letsvibe Mock App",
+    "slug": "letsvibe-mock-app",
+    "version": "1.0.0",
+    "scheme": "letsvibemockapp",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
