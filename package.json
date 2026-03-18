@@ -1,0 +1,11 @@
+{
+  "name": "design-system-extractor",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "extract": "node extract.js"
+  },
+  "dependencies": {
+    "playwright": "^1.53.0"
+  }
+}
