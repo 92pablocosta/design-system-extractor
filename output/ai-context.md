@@ -640,5 +640,3 @@ Use o design system abaixo como referência visual e estrutural para gerar inter
 - Não copie o HTML original; apenas use o sistema visual como referência.
 - Priorize clareza, hierarquia visual e responsividade.
 
-## Tarefa sugerida
-"Gere uma landing page moderna baseada neste design system, com hero, benefícios, seção de prova social, CTA e rodapé."
